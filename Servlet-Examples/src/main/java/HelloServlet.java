@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
- * @author XAXOXAVI
+ * @author Xaxensxavi
  */
 public class HelloServlet extends HttpServlet {
 
